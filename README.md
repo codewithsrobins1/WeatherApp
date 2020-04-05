@@ -4,7 +4,7 @@ Weather application that utilizes Darksky API to help display weather based on g
 
 ## Screenshot
 
-![photo-of-game](https://github.com/codewithsrobins1/PigGame/blob/master/readmeImg.PNG?raw=true)
+![photo-of-game](https://github.com/codewithsrobins1/WeatherApp/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
