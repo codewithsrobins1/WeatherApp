@@ -2,7 +2,9 @@
 
 Weather application that utilizes Darksky API to help display weather based on geographic location.
 
-## Link to Live Site
+## Screenshot
+
+![photo-of-game](https://github.com/codewithsrobins1/PigGame/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
