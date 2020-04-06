@@ -12,3 +12,7 @@ Weather application that utilizes Darksky API to help display weather based on g
 * CSS
 * Javascript
 * Darksky API (https://darksky.net/dev) - request weather forecasts and historical weather data 
+
+### Credit
+
+* Api from https://darksky.net/dev
